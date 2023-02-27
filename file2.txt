@@ -1,2 +1,6 @@
 kucing
+<<<<<<< HEAD
 fiture-2
+=======
+fiture-3
+>>>>>>> maindefelop
